@@ -279,9 +279,9 @@
     },
     {
       "name": "web",
-      "rootUri": "file:///C:/Users/lucia/AppData/Local/Pub/Cache/hosted/pub.dev/web-1.1.1",
+      "rootUri": "file:///C:/Users/lucia/AppData/Local/Pub/Cache/hosted/pub.dev/web-1.1.2",
       "packageUri": "lib/",
-      "languageVersion": "3.4"
+      "languageVersion": "3.13"
     },
     {
       "name": "web_socket",
